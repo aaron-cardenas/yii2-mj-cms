@@ -31,7 +31,7 @@
     "phpoffice/phpexcel": "1.8.*",
     "mobilejazz/yii2-oauth2-server": "2.0.*",
     "mobilejazz/yii2-export": "dev-enhancements",
-    "schmunk42/yii2-giiant": "0.8.*",
+    "schmunk42/yii2-giiant": "0.11.*",
     "bshaffer/oauth2-server-php": "v1.6",
     "kartik-v/yii2-editable": "1.7.*",
     "kartik-v/yii2-widgets": "3.4.*",
